@@ -1,8 +1,9 @@
 수업 자료 다운로드
 ---------------
+* 윈도우 운영체제를 사용하시는 분은 여기서 다운로드 받으세요
 * [KT DATA](http://naver.me/Gq8OpQZJ)
 
-개발환경 구축
+프로그램 다운로드 사이트
 ------------
 
 * [JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
