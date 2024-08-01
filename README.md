@@ -24,6 +24,16 @@ Java 설치
 ![image](https://github.com/user-attachments/assets/9e919011-83e8-45b8-bfac-fe16fdcf04b7)
 6. PATH 확인 --> [ windows + R ] 키를 누른 후 "cmd" 입력하고 Enter 키를 누릅니다. <b>java -version</b> 명령을 실행하면 다음과 같이 java 17 버젼이 나와야 합니다.
 ![image](https://github.com/user-attachments/assets/d3748c0c-286c-4957-9cb0-485da8060f2e)
+7. Java 17 버젼이 아닌 경우 환경 변수를 설정합니다. 
+    1. [windows]키를 누르고 "환경 변수" 입력
+    2. "시스템 환경 변수 편집"을 선택
+    3. [환경 변수] 버튼 선택
+    4. 시스템 변수 영역에 [새로 만들기] 버튼 선택
+        1. 변수 이름에 JAVA_HOME  입력
+        2. 변수 값에 JDK가 설치된 경로 입력 (예:C:\Program Files\Java\jdk-17)
+        3. ![image](https://github.com/user-attachments/assets/0ab8a067-1593-401b-9c0e-aaad80c63f56)
+        4. 환경 변수를 새로 설정한 경우 커맨드창을 새로 여신후 <b>java -version</b> 명령을 실합니다.
+
 
 
  
