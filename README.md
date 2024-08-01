@@ -31,7 +31,7 @@ Java 설치
     4. 시스템 변수 영역에 [새로 만들기] 버튼 선택
         1. 변수 이름에 JAVA_HOME  입력
         2. 변수 값에 JDK가 설치된 경로 입력 (예:C:\Program Files\Java\jdk-17)
-        3. ![image](https://github.com/user-attachments/assets/0ab8a067-1593-401b-9c0e-aaad80c63f56)
+        3. ![image](https://github.com/user-attachments/assets/69c314b1-2033-453d-a4fd-8ed4288a2bea)
         4. 환경 변수를 새로 설정한 경우 커맨드창을 새로 여신후 <b>java -version</b> 명령을 실합니다.
 
 
