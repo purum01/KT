@@ -7,9 +7,10 @@
 ------------
 * Mac OS를 사용하시는 분은 각 사이트에 접속해서 다운로드 받아 설치하세요
 * [JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+* [Spring Tools 4 for Eclipse](https://spring.io/tools)
 * [Tomcat](https://tomcat.apache.org/)
 * [H2 DB](https://www.h2database.com/html/main.html)
-* [Spring Tools 4 for Eclipse](https://spring.io/tools)
+
 
 Java 설치
 ------------
