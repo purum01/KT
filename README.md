@@ -41,8 +41,11 @@ Spring Tools 4 for Eclipse 4.15.3 설치
 2. 파일을 포인팅한 후 마우스 오른쪽 버튼을 눌러 [연결 프로그램]-[Java(TM) Platform SE binary]을 선택
 3. 또는 터미널창에서 "java -jar  spring-tool-suite-4-4.15.3.RELEASE-e4.24.0-win32.win32.x86_64.self-extracting.jar 실행"  
 ![image](https://github.com/user-attachments/assets/b8781953-e242-40fb-ba52-66926d49342a)
-5. 압축후 폴더 모습   
+4. 압축후 폴더 모습   
 ![image](https://github.com/user-attachments/assets/99e3c24f-6d4a-4400-9162-da378f849037)
+5. SpringToolSuite4.ini 파일을 열어 javaw.exe 지정(설치 경로가 다를수 있습니다)
+![image](https://github.com/user-attachments/assets/1a271a9c-6095-4536-a162-0bb79e6bc427)
+
 
 
  
