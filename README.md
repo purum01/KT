@@ -21,7 +21,12 @@ Java 설치
 4. 설치 진행  
 ![image](https://github.com/user-attachments/assets/6cf343d8-cc7b-4a80-9c00-e7dc5adc0ccc)  
 5. [Close] 클릭  
-![image](https://github.com/user-attachments/assets/9e919011-83e8-45b8-bfac-fe16fdcf04b7)  
+![image](https://github.com/user-attachments/assets/9e919011-83e8-45b8-bfac-fe16fdcf04b7)
+6. PATH 확인 --> [ windows + R ] 키를 누른 후 "cmd" 입력하고 Enter 키를 누릅니다. <b>java -version</b> 명령을 실행하면 다음과 같이 java 17 버젼이 나와야 합니다.
+![image](https://github.com/user-attachments/assets/d3748c0c-286c-4957-9cb0-485da8060f2e)
+
+
+ 
 
 
 
