@@ -43,8 +43,19 @@ Spring Tools 4 for Eclipse 4.15.3 설치
 ![image](https://github.com/user-attachments/assets/b8781953-e242-40fb-ba52-66926d49342a)
 4. 압축후 폴더 모습   
 ![image](https://github.com/user-attachments/assets/99e3c24f-6d4a-4400-9162-da378f849037)
-5. SpringToolSuite4.ini 파일을 열어 javaw.exe 지정(설치 경로가 다를수 있습니다)
+5. <b>SpringToolSuite4.ini</b> 파일을 열어 javaw.exe 지정(설치 경로가 다를수 있습니다)
 ![image](https://github.com/user-attachments/assets/1a271a9c-6095-4536-a162-0bb79e6bc427)
+6. <b>SpringToolSuite4.exe</b> 더블클릭해서 실행
+7. [Launch]버튼 클릭 (이클립스가 실행됩니다.)
+8. 상단의 메뉴에서 [Help] -> [Eclipse Marketplac...] 선택
+9. ![image](https://github.com/user-attachments/assets/89d61dd6-0dab-4c54-a901-ada5ad959ead)
+10. Find 창에 "Enterprise Java"를 입력후 검색
+11. Eclipse Enterprise Java and Web Developer Tools 3.26 의 [Install] 클릭
+12. 이후 설치는 기본값으로 진행합니다.
+![image](https://github.com/user-attachments/assets/efa52e82-1413-4f47-8687-becccacfd9c0)
+
+   
+   
 
 
 
