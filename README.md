@@ -58,6 +58,31 @@ Spring Tools 4 for Eclipse 4.15.3 설치
 
 H2 설치
 ------------
+1. h2-setup-2024-07-15.exe 더블클릭
+2. 설치 폴더 확인 후 [다음] 선택  
+![image](https://github.com/user-attachments/assets/4eca4c36-008a-401a-a0f9-ce7ac1840c51)
+3. [설치] 선택  
+![image](https://github.com/user-attachments/assets/74f9bfe4-8cb6-4e83-909f-5da847b1f3d6)
+4. windows 버튼 누르고 "h2" 입력한 후 [H2 Console] 선택 
+![image](https://github.com/user-attachments/assets/304b248d-817a-4bf8-8cd5-a1674198e9ec)
+5. 저장한 설정을 Generic H2(Server) 선택
+![image](https://github.com/user-attachments/assets/f22c695a-0ddf-4bce-a2e3-00e038deb5e4)
+6. [연결] 선택
+![image](https://github.com/user-attachments/assets/89a55e12-cc93-4138-9d62-7a2696ad826e)
+7. H2 DB가 실행된 화면
+![image](https://github.com/user-attachments/assets/06edd3f9-9f17-48e0-adad-ff142240518e)
+8. [연결]부분에서 오류가 나는 경우 해결 방법
+    1. mem.testdb  오류인 경우 - C:\사용자\[계정이름] 폴더에 test.mv.db 파일을 생성함 
+    2. 포트번호 오류인 경우 - 터미널창에서 다음 명령문 실행
+        1. netstat -ano | findstr 포트번호
+        2. taskkill /PID  포트번호  /F
+
+
+
+
+
+
+
 
    
    
