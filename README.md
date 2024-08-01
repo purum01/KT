@@ -13,15 +13,15 @@
 
 Java 설치
 ------------
-1. jdk-17_windows-x64_bin.exe 실행
-2. [Next] 클릭
-![image](https://github.com/user-attachments/assets/7309c860-f45a-443a-9df1-6c04115f1b11)
-3.[Next] 클릭
-![image](https://github.com/user-attachments/assets/560ee0db-3b24-40d2-896a-65e650386585)
-4. 설치 진행
-![image](https://github.com/user-attachments/assets/6cf343d8-cc7b-4a80-9c00-e7dc5adc0ccc)
-5. [Close] 클릭
-![image](https://github.com/user-attachments/assets/9e919011-83e8-45b8-bfac-fe16fdcf04b7)
+1. jdk-17_windows-x64_bin.exe 실행  
+2. [Next] 클릭  
+![image](https://github.com/user-attachments/assets/7309c860-f45a-443a-9df1-6c04115f1b11)  
+3.[Next] 클릭   
+![image](https://github.com/user-attachments/assets/560ee0db-3b24-40d2-896a-65e650386585)   
+4. 설치 진행  
+![image](https://github.com/user-attachments/assets/6cf343d8-cc7b-4a80-9c00-e7dc5adc0ccc)  
+5. [Close] 클릭  
+![image](https://github.com/user-attachments/assets/9e919011-83e8-45b8-bfac-fe16fdcf04b7)  
 
 
 
